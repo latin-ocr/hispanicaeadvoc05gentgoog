@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hispanicaeadvoc05gentgoog_0058.png"; bbox 0 0 1113 1475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 256 239 721 430">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 256 239 721 430">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 239 660 268; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 316 239 660 268; x_wconf 79' lang='lat' dir='ltr'>DEDICATORIA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 256 283 720 318; baseline -0.004 -9"><span class='ocrx_word' id='word_1_2' title='bbox 256 284 365 318; x_wconf 81' lang='lat' dir='ltr'>Dignitas</span> <span class='ocrx_word' id='word_1_3' title='bbox 373 290 413 309; x_wconf 76' lang='lat' dir='ltr'>tua</span> <span class='ocrx_word' id='word_1_4' title='bbox 422 300 431 314; x_wconf 91' lang='lat'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 446 283 596 318; x_wconf 84' lang='lat' dir='ltr'>nostrumque</span> <span class='ocrx_word' id='word_1_6' title='bbox 605 284 653 310; x_wconf 85' lang='lat' dir='ltr'>hoc</span> <span class='ocrx_word' id='word_1_7' title='bbox 666 284 720 311; x_wconf 84' lang='lat' dir='ltr'>offi.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 257 323 721 359; baseline 0 -9"><span class='ocrx_word' id='word_1_8' title='bbox 257 324 321 350; x_wconf 81' lang='lat' dir='ltr'>cium</span> <span class='ocrx_word' id='word_1_9' title='bbox 329 324 391 358; x_wconf 85' lang='lat' dir='ltr'>aequi</span> <span class='ocrx_word' id='word_1_10' title='bbox 400 324 504 357; x_wconf 81' lang='lat' dir='ltr'>bonique</span> <span class='ocrx_word' id='word_1_11' title='bbox 512 323 630 350; x_wconf 84' lang='lat' dir='ltr'>consulere</span> <span class='ocrx_word' id='word_1_12' title='bbox 639 325 721 359; x_wconf 83' lang='lat' dir='ltr'>digne-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 256 363 719 399; baseline 0 -9"><span class='ocrx_word' id='word_1_13' title='bbox 256 370 301 390; x_wconf 80' lang='lat' dir='ltr'>tur.</span> <span class='ocrx_word' id='word_1_14' title='bbox 333 364 422 390; x_wconf 85' lang='lat' dir='ltr'>Datum</span> <span class='ocrx_word' id='word_1_15' title='bbox 434 363 593 399; x_wconf 81' lang='lat' dir='ltr'>Norimbergae</span> <span class='ocrx_word' id='word_1_16' title='bbox 607 363 659 390; x_wconf 84' lang='lat' dir='ltr'>Cal.</span> <span class='ocrx_word' id='word_1_17' title='bbox 674 364 719 390; x_wconf 73' lang='lat' dir='ltr'>Fo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 256 404 554 430; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 256 404 351 430; x_wconf 67' lang='lat' dir='ltr'>buxariis</span> <span class='ocrx_word' id='word_1_19' title='bbox 366 412 413 430; x_wconf 73' lang='lat' dir='ltr'>cm</span> <span class='ocrx_word' id='word_1_20' title='bbox 431 411 477 430; x_wconf 73' lang='lat' dir='ltr'>xoc</span> <span class='ocrx_word' id='word_1_21' title='bbox 495 412 554 430; x_wconf 86' lang='lat' dir='ltr'>xm.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
